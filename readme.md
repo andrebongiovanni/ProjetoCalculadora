@@ -1,3 +1,3 @@
 Projeto Calculadora, utilizando HTML/CSS/JS
 
-<img src = "https://hermes.dio.me/tracks/image_trial/a84adc0a-5d44-4dd3-8c43-705e1297e1fe.webp"/>
+![Tela](https://github.com/andrebongiovanni/ProjetoCalculadora/assets/92638511/bb5b9a29-8747-4c17-83ee-88fe23aa35a7)
